@@ -53,4 +53,4 @@ _Sensor Functions:_
 - Integrate communication protocols for remote monitoring or data logging.
 - Enhance the user interface with additional displays or menus.
 
-[^1]: We used the Keil IDE to create a hex file from the C Code, and dumped that to the 8051 using the `stcgal -p {PORTNAME} {HEXFILEPATH}` command.
+[^1]: We used the Keil IDE to create a hex file from the C Code, and dumped that to the 8051 microcontroller using the `stcgal -p {PORTNAME} {HEXFILEPATH}` command.
