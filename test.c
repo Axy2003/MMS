@@ -67,7 +67,7 @@ int main(void)
 		value = P0*5.0/256.0;
 		magnet = mag_field;
 		display_mag(magnet);
-		display_prox(4.20);
+		display_prox(value);
 		Read = 1;
 	}
 	return 0;
