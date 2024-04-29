@@ -2,7 +2,7 @@
 This project implements a motor monitoring system using an 8051 microcontroller.
 The system monitors the motor's rotation and magnetic field using an IR sensor and a Hall effect sensor, respectively.
 The data is then displayed on a 16x2 LCD.
-Other contributors: @Manishkumar1062 @Ayush180204
+Other contributors: @Axy2003 @Ayush180204 @Manishkumar1062
 
 ***Hardware Requirements:***
 - 8051 Microcontroller
